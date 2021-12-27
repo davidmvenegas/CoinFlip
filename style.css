@@ -42,7 +42,6 @@ body {
     width: 150px;
     margin: 50px auto;
     transform-style: preserve-3d;
-    animation: spin-tails 3s forwards;
 }
 .coin img {
     width: 145px;
